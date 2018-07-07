@@ -1,8 +1,7 @@
 ---
 layout: front
-title: "David Darnes"
-excerpt: "Web Designer & Front-end Developer"
-image: "https://avatars1.githubusercontent.com/u/1177460?s=600"
+title: "Juan Ruiz-Alzola"
+excerpt: "Sitio web"
 
 ---
 
